@@ -1,0 +1,57 @@
+/* .main{
+    background-color: black;
+    color: white;
+}
+.main:hover{
+    background-color: gray;
+    color: black;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 5%;
+}
+.btn:hover{
+    background-color: yellow;
+    color: black;
+}
+.btn1{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 5%;
+}
+.btn1:hover{
+    background-color: yellow;
+    color: black;
+}
+.btn2{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: none 
+}
+.btn2:hover{
+    background-color: yellow;
+    color: black;
+} */
+
+
+.task{
+    background-color: goldenrod;
+    align-items: center;
+    height: 350px;
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 700px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.btn{
+    align-items: center;
+    padding: 20px;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-left: 970px;
+    margin-top: 200px;
+}

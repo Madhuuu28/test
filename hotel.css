@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+.main-img{
+    background-image: url("hotel1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 65vh;
+    display: flex;
+   flex-direction: column;
+} 
+.main-img1{
+    display: flex;
+    flex-direction: row;
+}
+.header{
+    margin-top:40px;
+    display: flex;
+    height: 15px;
+    align-items: center;
+    justify-content: space-between;
+    font-size: x-large;
+}
+.logo{
+    font-family: "Delicious Handrawn", serif;
+    font-size: 70px;
+    list-style: none;
+    color: beige;
+    display: flex;
+    margin-left: 80px;
+}
+.link{
+    display: flex;
+    color: beige;
+    justify-content: center;
+    padding: 50px;
+    flex-direction: row;
+}
+.link:hover{
+    color: red
+}
+li{
+    list-style: none;
+    padding: 0px 30px 0px 0px;
+}
+.icons{
+    color: beige;
+    padding: 10px;
+    display: flex;
+}
+.icons:hover{
+    color: red;
+}
+.button{
+    color: blueviolet;
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.button:hover{
+    color: red;
+    background: beige;
+}
+.main{
+
+    margin:120px 100px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+}
+.heading{
+    font-family: "Delicious Handrawn", serif;
+    font-size: 30px;
+    color: beige;
+    margin-top: 0vh;
+    width: 500px;
+    height: auto;
+    margin-left: px;
+    border: none;
+}
+.p{
+    color: rgb(228, 171, 87) ;
+    margin-bottom: 30px;
+    font-size: x-large;
+}
+.btn{
+    background-color: yellow;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+.btn:hover{
+    color: red;
+    background: beige;
+}
+.offers{
+    justify-content:space-around;
+    display: flex;
+    margin: 40px 40px;
+}
+.offer1{
+    width: 700px;
+    border-radius: 50px;
+    display: flex;
+    height: 300px;
+    background-color: aqua;
+}
+.offer-content{
+    margin-left: 40px;
+}
+.img1{
+    border-radius: 100px;
+    margin-left: 100px;
+    height: 150px;
+    width: 150px;
+}
+.h1{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.p1{
+    font-size: larger;
+}
+.btn1{
+    background-color: yellow;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    height: 2vh;
+}
+.btn1:hover{
+    color: red;
+    background: beige;
+}
+.offer2{
+    background-color: rgb(184, 43, 43);
+    width: 500px;
+    height: 16vh;
+    margin-top: 50px;
+}
+.img2{
+    border-radius: 100px;
+    margin-left: 100px;
+    height: 150px;
+    width: 150px;
+}
+.h2{
+    margin-top: 30px;
+    justify-content: center;
+}
+.p2{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.btn2{
+    background-color: yellow;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
+.btn2:hover{
+    color: red;
+    background: beige;
+}
+.menu-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.main-menu{
+    background-color: aquamarine;
+    width: 300px;
+    margin: 20px 20px;
+    border-radius: 30px;
+}
+.menu-img{
+    border-radius: 30px 30px 0px 30px;
+    width: 300px;
+    height: 250px;
+}
+.menu-icon{
+    align-items: center;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.details{
+    background-color: aquamarine;
+    height: 710px;
+    width: 1900px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    display: flex;
+}
+.words{
+    margin-left: 40px;
+    margin-top: 100px;
+}
+.lines{
+    color: brown;
+}
+.h{
+    font-family: "Delicious Handrawn", serif;
+    font-size: 60px;
+    margin-right: 200px;
+}
+.btn-logo{
+    padding: 20px;
+}

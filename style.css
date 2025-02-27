@@ -1,0 +1,80 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-boxd;
+}
+.header{
+   height: 100px;
+   background-color: yellow; 
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   text-align: center;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    background-color: gray;
+    border-radius: 50px;
+    margin-left: 50px;   
+}
+.search{
+    height: 50px;
+    width: 250px;
+    background-color: aquamarine;
+    text-align: center;
+}
+.links{
+    display: flex;
+}
+li{
+    padding: 0px 10px;
+    list-style: none;
+}
+.main{
+    height: 85vh;
+    background-color: sandybrown;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-size: large;
+    justify-content: center;
+}
+button{
+    padding: 20px;
+    font-size: medium;
+    border-radius: 20px;
+    background-color: blueviolet;
+    margin-top: 50px;
+    justify-content: center;
+    margin: 80px 80px 50px 80px ;
+    border: none;
+}
+.h1{
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 50px;
+}
+.p{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    border-radius: 100px;
+    padding: 50px 50px 50px 50px;
+    width: 500px;
+    background-color: gray;
+}
+.section-img{
+    height: 50vh;
+    width: 50%;
+    background-color: green;
+    margin-right: 50px;
+}
+.section{
+     display: flex;
+     margin: 40px;
+     justify-content: right;
+     align-items: center;
+}

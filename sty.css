@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+.main-img{
+    background-image: url("1food.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 65vh;
+}
+.name{
+    display: flex;
+}
+.header{
+    display: flex;
+    height: 15vh;
+    align-items: center;
+    justify-content: space-around;
+    font-size: x-large;
+}
+.logo{
+    font-family: "Delicious Handrawn", serif;
+    margin-top: 100px;
+    font-size: xx-large;
+    list-style: none;
+    color: beige;
+    display: flex;
+    margin-left: 80px;
+}
+.link{
+    display: flex;
+    margin-top: 7vh;
+    color: beige;
+justify-content: center;
+    margin-right: 100px;
+    padding: 10px;
+    flex-direction: row;
+    margin-left: 50px;
+}
+li{
+    list-style: none;
+    padding: 0px 30px 0px 0px;
+}
+.icons{
+    color: beige;
+    padding: 10px;
+    margin-right: 10px;
+    align-items: flex-end;
+    flex-direction: row;
+    display: flex;
+    margin-top: 4vh;
+}
+.button{
+    color: blueviolet;
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.button:hover{
+    color: red;
+    background: beige;
+}
+.link:hover{
+    color: red
+}
+.icons:hover{
+color: red;
+}
+.main{
+    margin-top: 10vh;
+    width: 500px;
+    margin-right: 200px;
+}
+.link{
+    margin-top: px;
+    align-items: center;
+}
+.heading{
+    font-family: "Delicious Handrawn", serif;
+    font-size: 30px;
+    color: beige;
+    margin-top: 0px;
+    width: 500px;
+    margin-left: 0px;
+    border: none;
+}
+.p{
+    color: rgb(228, 171, 87) ;
+    font-size: large;
+}
+.btn{
+    background-color: yellow;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+.btn:hover{
+    color: red;
+    background: beige;
+}
+.offer1{
+    background-color: rgb(184, 43, 43);
+    width: 500px;
+    height: 16vh;
+    margin-right: 10px;
+    margin-top: 50px;
+}
+.offer2{
+    background-color: rgb(184, 43, 43);
+    width: 500px;
+    height: 16vh;
+    margin-top: 50px;
+}
+.btn1{
+    background-color: yellow;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    height: 2vh;
+}
+.btn2{
+background-color: yellow;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
+.btn1:hover{
+    color: red;
+    background: beige;
+}
+.btn2:hover{
+    color: red;
+    background: beige;
+}
+.img2{
+    border-radius: 100px;
+    margin-left: 100px;
+    height: 150px;
+    width: 150px;
+}
+.p1{
+    font-size: larger;
+}
+.img1{
+    border-radius: 100px;
+    margin-left: 100px;
+    height: 150px;
+    width: 150px;
+}
+.h1{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.h2{
+    margin-top: 30px;
+    justify-content: center;
+}
+.p2{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.offer1{
+    display: flex;
+    color: black;
+}
+.offer2{
+    color: black;
+    display: flex;
+}
+.offers{
+    display: flex;
+    justify-content: center;
+}
+    
